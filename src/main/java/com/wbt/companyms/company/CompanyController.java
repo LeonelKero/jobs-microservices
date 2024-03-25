@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping(path = {"/companies"})
+@RequestMapping(path = {"/api/v1/companies"})
 public record CompanyController(CompanyService companyService) {
 
     @GetMapping
