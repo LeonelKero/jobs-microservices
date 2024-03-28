@@ -9,6 +9,7 @@
 # Technologies
 
 - Java
+- Kotlin
 - Spring Web
 - Spring Data JPA
 - H2
@@ -16,6 +17,8 @@
 - Project Lombok
 - Docker
 - Spring Actuator
+- Eureka Client
+- Eureka Server
 
 # Topics
 
@@ -27,6 +30,7 @@
 - DTO
 - Exceptions
 - service configuration 😎
+- Service discovery
 
 ## Credit
 `Happy coding! as always`
